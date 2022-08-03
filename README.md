@@ -1,6 +1,4 @@
-### Hey there, I'm Phillip!👋 
-<img src="https://visitor-badge.glitch.me/badge?page_id=phillip-che" alt="visitor badge"/>
-
+### Hey there, I'm Phillip! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="visitor badge" width="30px"/>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -12,9 +10,9 @@
 - ⚡ Fun fact: ...
 -->
 
-<h2 align="center">Github Stats :bar_chart:</h2>
+<h2 align="center">:bar_chart: Github Stats</h2>
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillip-che&theme=radical&hide=glsl,python" alt="Phillip's Github Stats" /></p>
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillip-che&theme=radical&line_height=27&hide=glsl,python" alt="Phillip's Github Stats" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phillip-che&&show_icons=true&theme=radical&line_height=27&v=5" alt="Phillip's Github Stats" /></p>
 
