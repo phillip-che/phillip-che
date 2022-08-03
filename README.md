@@ -1,9 +1,6 @@
-### Hi there 👋
+### Hey there, I'm Phillip!👋 
+<img src="https://visitor-badge.glitch.me/badge?page_id=phillip-che" alt="visitor badge"/>
 
-<!--
-**phillip-che/phillip-che** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -14,3 +11,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<h2 align="center">Github Stats :bar_chart:</h2>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillip-che&theme=radical&hide=glsl,python" alt="Phillip's Github Stats" /></p>
+
+<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phillip-che&&show_icons=true&theme=radical&line_height=27&v=5" alt="Phillip's Github Stats" /></p>
+
