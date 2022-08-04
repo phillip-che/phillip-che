@@ -16,13 +16,18 @@
 <a href="https://twitter.com/iCasKade" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a>
 
 </h5>
-<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="250" height="auto" />
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="300" height="auto" />
 
-- 🎓 I’m currently studying Computer Science at California State Polytechnic University - Pomona.
-- 🧪 I'm currently working on undergraduate research pertaining to real-time image processing.
-- 🧠 I'm currently learning about image stitching, parallel processing, and assembly programming.
-- 🔎 I’m currently looking for Software Engineering Internship Positions.
-- ⚡ Fun facts: I like sneaker reselling, stocks and crypto investments, and building keyboards.
+- 🎓 <b>I’m currently studying ... </b></br>
+      Computer Science at California State Polytechnic University - Pomona.
+- 🧪 <b>I'm currently working on ... </b></br> 
+      undergraduate research pertaining to real-time image processing.
+- 🧠 <b>I'm currently learning about ... </b></br>
+      image stitching, parallel processing, and assembly programming.
+- 🔎 <b>I’m currently looking for ... </b></br>
+      Software Engineering Internship Positions.
+- ⚡ <b>Fun facts:</b> </br>
+      I like sneaker reselling, stocks and crypto investments, and building keyboards.
 
 <h2 align="center">:wrench: Languages and Tools</h2>
 <p align="center"> 
