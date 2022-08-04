@@ -1,15 +1,38 @@
-### Hey there, I'm Phillip! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" alt="visitor badge" width="30px"/>
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge)
+<img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I%27m+Phillip!;%F0%9F%91%8B+Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
+
+<h2 align="center">:grin: About Me</h2>
+
+<h5 align="center">
+
+<a align="center" href="https://www.linkedin.com/in/phillipche/" title="LinkedIn Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"> LinkedIn</a> •
+<a href="https://www.leetcode.com/phillip-che" title="Stack Overflow Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"> Leetcode</a> •
+<a align="center" href="https://www.instagram.com/philllip.che/" title="Instagram Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"> Instagram</a> •
+<a href="https://twitter.com/iCasKade" title="Twitter Profile"><img width="22" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"> Twitter</a>
+
+</h5>
+<img src="https://gist.githubusercontent.com/patevs/b007a0e98fb216438d4cbf559fac4166/raw/88f20c9d749d756be63f22b09f3c4ac570bc5101/programming.gif" alt="side Image" align="right" width="250" height="auto" />
+
+- 🎓 I’m currently studying Computer Science at California State Polytechnic University - Pomona.
+- 🧪 I'm currently working on undergraduate research pertaining to real-time image processing.
+- 🧠 I'm currently learning about image stitching, parallel processing, and assembly programming.
+- 🔎 I’m currently looking for Software Engineering Internship Positions.
+- ⚡ Fun facts: I like sneaker reselling, stocks and crypto investments, and building keyboards.
+
+<h2 align="center">:wrench: Languages and Tools</h2>
+<p align="center"> 
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></code>
+<code><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/></code>
+<code><img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/></code>
+</p>
+
 
 <h2 align="center">:bar_chart: Github Stats</h2>
 
