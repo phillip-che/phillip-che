@@ -43,6 +43,5 @@
 <h2 align="center">:bar_chart: Github Stats</h2>
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=phillip-che&theme=radical&line_height=27&hide=glsl,python" alt="Phillip's Github Stats" /></p>
-
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=phillip-che&&show_icons=true&theme=radical&line_height=27&v=5" alt="Phillip's Github Stats" /></p>
+<p align="center"><img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=phillip-che&theme=dark&background=141321" alt="Phillip's Github Stats" /></p>
 
