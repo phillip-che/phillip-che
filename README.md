@@ -21,7 +21,7 @@
 - 🎓 <b>I’m currently studying ... </b></br>
       Computer Science at California State Polytechnic University - Pomona.
 - 🧪 <b>I'm currently working on ... </b></br> 
-      building a sneaker forum and a student housing finder application.
+      my personal site.
 - 🧠 <b>I'm currently learning about ... </b></br>
       frontend technologies, databases, and AWS.
 - 🔎 <b>I’m currently looking for ... </b></br>
