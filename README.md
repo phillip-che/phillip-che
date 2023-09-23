@@ -25,7 +25,7 @@
 - 🧠 <b>I'm currently learning about ... </b></br>
       frontend technologies, databases, and AWS.
 - 🔎 <b>I’m currently looking for ... </b></br>
-      Software Engineering Internship Positions for Fall 2023.
+      Software Engineering New Grad Positions for 2024.
 - ⚡ <b>Fun facts:</b> </br>
       I like sneaker reselling, stocks and crypto investments, and building keyboards.
 
