@@ -1,11 +1,5 @@
 <img align="right" src="https://visitor-badge.glitch.me/badge?page_id=phillip-che.visitor-badge">
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey+there,+I%27m+Phillip!;%F0%9F%91%8B+Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
-
 <h2 align="center">:grin: About Me</h2>
 
 <h5 align="center">
